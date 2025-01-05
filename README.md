@@ -12,6 +12,7 @@
 - 📫 How to reach me?
   **My e-mail address**
   ishesabim125@gmail.com.
+  Linkedin:
   https://tr.linkedin.com/in/zekeriya-tunga-b30724331?trk=people-guest_people_search-card
 - ⚡ Fun fact:Learning software and creating projects.
 
